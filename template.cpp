@@ -175,7 +175,7 @@ int main()
     catch (Stack::Full)
     {
         cout << "Exception : Stack Full" << endl;
-    }
+    } 
     catch (Stack::Empty)
     {
         cout << "Exception : Stack Empty" << endl;
